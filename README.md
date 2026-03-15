@@ -1,4 +1,4 @@
-#SPLIT Method for radio-2 vertex coloring
+# SPLIT Method for radio-2 vertex coloring
 
 This is the implementation of a paralelized algorithm for radio-2 vertex colorings of graphs. The file Mathematical_explanation.pdf contains all the details on how it works.
 
