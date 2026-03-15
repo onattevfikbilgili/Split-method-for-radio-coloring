@@ -10,7 +10,7 @@ Hougardy, S. and Vygen, J.,Algorithmic Mathematics, (2016) 80-83
 
 Scikit-learn libraries were used for spectral clustering.
 
-This package makes use of CPLEX to solve intiger-linear programs. To compile those add the necessary CPLEX files to include and lib directories respectively (After creating those directories).
+This package makes use of CPLEX to solve intiger-linear programs. To compile add the necessary CPLEX files to include and lib directories respectively (After creating those directories).
 
 default usage:
 
